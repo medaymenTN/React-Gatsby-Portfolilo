@@ -1,0 +1,42 @@
+{
+  "fullname": "Mohamed Aymen Ourabi",
+  "sub": "FullStack JavaScript Developer (React JS | Angular | Node JS | React Native) at Digit-U",
+  "location": "Gouvernorat de Béja, Tunisia",
+  "infos": "I’m an ambitious young Full Stack Web Developer and a Javascript Enthusiast, I contributed in various projects throughout my career from my university studies to my professional experiences. I excel in building web application, and I have enough experience with mobile applications specially the hybrid ones. i'm always looking for new challenges and trying to learn to latest and cutting edge of technologies because i think that coding is not only about mastering a piece of software but it's also about using best practises, strong architectures and suitable design patterns.",
+  "experience": [
+    {
+      "company": "Digit-U",
+      "jobs": [
+        {
+          "job": "Fulltime",
+          "duration": {
+            "from": "01/07/2019",
+            "to": "present"
+          },
+          "role": "FullStack javascript developer"
+        },
+        {
+          "job": "internship",
+          "duration": {
+            "from": "01/01/2019",
+            "to": "01/07/2019"
+          },
+          "role": "React JS / React Native developer inter"
+        }
+      ]
+    },
+    {
+      "company": "Junior Network",
+      "jobs": [
+        {
+          "job": "Full stack javascript developer inter",
+          "duration": {
+            "from": "01/07/2018",
+            "to": "01/10/2018"
+          },
+          "role": "FullStack javascript developer"
+        }
+      ]
+    }
+  ]
+}
